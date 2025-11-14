@@ -26,7 +26,6 @@ const firebaseConfig = {
   messagingSenderId: "224747133866",
   appId: "1:224747133866:web:398b0d08b0c837248d29d3"
 };
-
 const appId = firebaseConfig.appId;
 
 export default function App() {
